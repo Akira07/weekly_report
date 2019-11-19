@@ -3,5 +3,5 @@ Bundler.require
 require 'sinatra/reloader'
 
 get '/' do
-  'hello'
+  'Hello World.'
 end
